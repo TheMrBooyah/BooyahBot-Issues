@@ -18,7 +18,7 @@ You can get rid of the text inside of the main text, assuming you have complied.
 Lastly, probably the most important part of creating an issue file is describing it.
 Here are some things you should include in your description:    
 --> How you can reproduce bug (How you can make the bug happen/execute)    
---> Commands involved
+--> Commands involved    
 --> Everything else about the bug and more    
 You should now have a title and a description. The next step is to post the issue. When you are completely done with your issue, press the "Submit new issue" button.
 
